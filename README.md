@@ -1,0 +1,2 @@
+# BCSTask
+Neural Networks practice
